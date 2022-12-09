@@ -11,3 +11,18 @@ It could be discord methods, gopuff, or anything.
 Currently, we are working on CONNECTSOFTWARE™.
 
 ConnectSoftware is a multi-tool vyper and nikon (me) are making.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discord: https://discord.gg/t55TYpEHAu
