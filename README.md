@@ -1,5 +1,5 @@
-                     Welcome ┌─┐┌─┐┌┐┌┌┐┌┌─┐┌─┐┌┬┐ 
-                          To │  │ │││││││├┤ │   │  
-                     Connect └─┘└─┘┘└┘┘└┘└─┘└─┘ ┴  
+                     Welcome  ┌─┐┌─┐┌┐┌┌┐┌┌─┐┌─┐┌┬┐ 
+                          To  │  │ │││││││├┤ │   │  
+                     Connect  └─┘└─┘┘└┘┘└┘└─┘└─┘ ┴  
 
-# What is connect?
+# What is /connect?
